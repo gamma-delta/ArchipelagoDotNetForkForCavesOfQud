@@ -1,4 +1,4 @@
-﻿#if NET45 || NETSTANDARD2_0 || NET6_0
+﻿#if true || NET45 || NETSTANDARD2_0 || NET6_0
 using Archipelago.MultiClient.Net.Extensions;
 using System;
 using System.Collections.Generic;
